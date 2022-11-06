@@ -5,7 +5,7 @@
 
  - [.nojekyll](.nojekyll) : `0` : `-rw-r--r--` - `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`
  - [I2P-1.6.1.dmg](I2P-1.6.1.dmg) : `73022332` : `-rw-r--r--` - `057570e3d2b6ba6ca29787f1e5f8c9c36c7072e9f3687e6ed58182f4488ae5a3`
- - [README.md](README.md) : `2241` : `-rw-r--r--` - `925374b3eb4a45029ebc9fbb5b2a7c1e2fad6fcc7363d0e79374d5231b2df0d2`
+ - [README.md](README.md) : `2657` : `-rw-r--r--` - `84d7bac78fdea229fcbe9f4251aff7b964ee9927ddf0f377d64f6b502d448892`
  - [i2pinstall_1.6.1.jar](i2pinstall_1.6.1.jar) : `29456320` : `-rw-r--r--` - `2ae90f28d51b84796079430bde53589e1c2117125d5fb7bb5c036c4e1ad1eb80`
  - [i2pinstall_1.6.1.jar.sig](i2pinstall_1.6.1.jar.sig) : `566` : `-rw-r--r--` - `9d7c35841bf1f3e0e6d7a484e0c4819f748b8c53bb0995197644d48c68e7d748`
  - [i2pinstall_1.6.1_windows.exe](i2pinstall_1.6.1_windows.exe) : `23198088` : `-rw-r--r--` - `c5d5757d0cc1f4ce0cf2a663c35ca173d0cfe4ef0f38ac50b1be116787b03c87`
@@ -18,7 +18,7 @@
  - [i2pupdate.su3](i2pupdate.su3) : `17381806` : `-rw-r--r--` - `5fe7982cc1499872864a022507d0850627448d62ef65e0a7b5c172144a04368d`
  - [i2pupdate_1.6.1.zip](i2pupdate_1.6.1.zip) : `17381226` : `-rw-r--r--` - `90ac2eb6a0207a7614568129e4f8927b9e3765a533033600b9a1f5a53779134d`
  - [i2pupdate_1.6.1.zip.sig](i2pupdate_1.6.1.zip.sig) : `566` : `-rw-r--r--` - `5d734fd83c91c3a7e937ce55d8dd24daccff2d0389273b75f3280cd6a394d4e8`
- - [index.html](index.html) : `6919` : `-rw-r--r--` - `c3141fafb1e4a38f1bfdad649acb57f859307523a18bf307dd33b93e2e15ee73`
+ - [index.html](index.html) : `8076` : `-rw-r--r--` - `39175fdf567440037363a79ac862d804cc2a8687df6b7855081a273207010796`
  - [shasums.txt](shasums.txt) : `1533` : `-rw-r--r--` - `4cd73f3efff3ffd1c9174f3170f8c257a5f208644a7d2c457dda771ffb473448`
  - [showhider.css](showhider.css) : `391` : `-rw-r--r--` - `3fa35d42a1ec9060d2ed38ef15c13d4f79a7002b09033ef60d937734c9ab4490`
  - [style.css](style.css) : `2562` : `-rw-r--r--` - `afe6d4cb352e0b7b303228d06902d7eb9a42e9c6f73f13c0651a2cb65bf037e0`
