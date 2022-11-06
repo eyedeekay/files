@@ -1,0 +1,13 @@
+{
+    "RunDir": "~/.i2p/eepsite/docroot/files/",
+    "Commands": [{
+            "Command": "./mirror.sh",
+            "Args": []
+        },
+        {
+            "Command": "./pregenerate.sh",
+            "Args": []
+        }
+    ],
+    "IntervalMinutes": 15
+}
