@@ -5,7 +5,7 @@
 
  - [.nojekyll](.nojekyll) : `0` : `-rw-r--r--` - `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`
  - [0.9.47](0.9.47) : `831` : `-rw-r--r--` - `964288c54994930868e85afe219b227a0eb239d588234eec37a38e5b4923512c`
- - [README.md](README.md) : `2355` : `-rw-r--r--` - `5e187e6cd4ea7e8b6bae48299fc5f438fcf1979c2e5f9e1827899b77fd757adc`
+ - [README.md](README.md) : `2791` : `-rw-r--r--` - `65b524ade933b36bbafb02df65c358f0fbe7df31a091facbabd70389c8a3681e`
  - [i2pinstall_0.9.46.jar](i2pinstall_0.9.46.jar) : `21178600` : `-rw-r--r--` - `bc8ec63e1df5eba7b22c57a143ff177a1fb208f793f07ecf249f3589029def1e`
  - [i2pinstall_0.9.46.jar.sig](i2pinstall_0.9.46.jar.sig) : `566` : `-rw-r--r--` - `3e8ffb709a55fcf10a75271284d02d56065198bf706d0ef6609b1f3f016d0054`
  - [i2pinstall_0.9.46_windows.exe](i2pinstall_0.9.46_windows.exe) : `15481304` : `-rw-r--r--` - `2809402371b635ecb4260de3e791270c06ed3d55830ed099062e7546136419f8`
@@ -19,7 +19,7 @@
  - [i2pupdate.zip](i2pupdate.zip) : `16444365` : `-rw-r--r--` - `f0e7eed82a17e221c0bf604686518e85828f4a0a32c87a24c107e2c7492671cc`
  - [i2pupdate_0.9.46.zip](i2pupdate_0.9.46.zip) : `16444365` : `-rw-r--r--` - `f0e7eed82a17e221c0bf604686518e85828f4a0a32c87a24c107e2c7492671cc`
  - [i2pupdate_0.9.46.zip.sig](i2pupdate_0.9.46.zip.sig) : `566` : `-rw-r--r--` - `3e678ea757bc5193e5cf3033e4255b443b41d255ad4357da7651630379f2823c`
- - [index.html](index.html) : `7194` : `-rw-r--r--` - `34ee3bc0335e45c7c6d0820442a91cd61b2799b4e9a99e5fb4d655d922f02ae2`
+ - [index.html](index.html) : `8410` : `-rw-r--r--` - `9dbd7935b651762af895930518ca122ef104efe088a0bc139ad514dfd4d8abd6`
  - [shasums.txt](shasums.txt) : `1548` : `-rw-r--r--` - `666f71c1c0c68a647c4a3532196a522ff9c6abd3e947310c92c500e7fc533406`
  - [showhider.css](showhider.css) : `391` : `-rw-r--r--` - `3fa35d42a1ec9060d2ed38ef15c13d4f79a7002b09033ef60d937734c9ab4490`
  - [style.css](style.css) : `2562` : `-rw-r--r--` - `afe6d4cb352e0b7b303228d06902d7eb9a42e9c6f73f13c0651a2cb65bf037e0`
