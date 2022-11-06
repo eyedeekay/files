@@ -8,7 +8,7 @@
  - I2PMacLauncher-0.9.40-beta-0.1.5.dmg.asc : `228` : `-rw-r--r--` - `1d627aa3d164296f741c8e3b03c1fa364faf29237a8bf65f8c96522643f504da`
  - I2PMacLauncher-0.9.40-beta-0.1.5.zip : `35606212` : `-rw-r--r--` - `1ed78b18ecd995aadf2ba2ff123036fd4f8b8bc1dbcb2d01d1ca1b6869ac3e48`
  - I2PMacLauncher-0.9.40-beta-0.1.5.zip.asc : `228` : `-rw-r--r--` - `e40ce64b17631b230bab5df361a16fbce47843ff75a8054c0482043fe50f9edc`
- - README.md : `2683` : `-rw-r--r--` - `dc9971c2499449ac4fc20e22ed0795a36f0a2edc8e066798204bda2e82949444`
+ - README.md : `2683` : `-rw-r--r--` - `ec7ad82b144743fda3dbc827b0cdf16ea361a7a56351123aa7c5a1c218c596ef`
  - i2pinstall_0.9.40.jar : `24432046` : `-rw-r--r--` - `b5dac73d1683ebfa9b58475c2dddc6ffc40efa6622278d133688af73db428381`
  - i2pinstall_0.9.40.jar.sig : `566` : `-rw-r--r--` - `88b4a9182d724a082133945cadbfcbe90e567cd6277ec051e20f07d96bfe5a9b`
  - i2pinstall_0.9.40_windows.exe : `14031984` : `-rw-r--r--` - `8b608dcef452a19fd4d5746884ee12bdd9537fef5a2a6fcb6c400c430d2a107a`
@@ -21,7 +21,7 @@
  - i2pupdate.su3 : `7303095` : `-rw-r--r--` - `327b3a01d9a8be808f8ffe2c5b7e1b8eb586640a14b103212f252c1c2d56d2dc`
  - i2pupdate_0.9.40.zip : `14261143` : `-rw-r--r--` - `0aeaf2d670f23942953408f669fe2f636afb4d22bdccc834b8741ad740f1d019`
  - i2pupdate_0.9.40.zip.sig : `566` : `-rw-r--r--` - `53deaa623ce464c73eef891dfc62a96328b205fcf4e610e43af8d0efa2d8971c`
- - index.html : `7846` : `-rw-r--r--` - `833a483fa59193bb062f2e26f254ae195e9850308e8d5dae8abbc5adeaa52d3f`
+ - index.html : `7844` : `-rw-r--r--` - `613fae7389afb4be14603a0b2435ee301f53eef68f8e0a0e92fb004df21b5593`
  - shasums.txt : `1548` : `-rw-r--r--` - `ca158436de90904300493443bbb7c6766b344e5c82b3996920fef99950ec9fd7`
  - showhider.css : `391` : `-rw-r--r--` - `3fa35d42a1ec9060d2ed38ef15c13d4f79a7002b09033ef60d937734c9ab4490`
  - style.css : `2562` : `-rw-r--r--` - `afe6d4cb352e0b7b303228d06902d7eb9a42e9c6f73f13c0651a2cb65bf037e0`
