@@ -51,8 +51,8 @@ releases
  - 0.9.49.torrent : `10525` : `-rw-r--r--` - `1a0dcf28c710f5259625566dae71b0a2a7681bbd4b3e5e2c8b6054a01297916d`
  - 0.9.50.torrent : `8356` : `-rw-r--r--` - `eb0f4cd2a6654d766967f6fa7280b65af706a69c5dddd166abbc40bad73c5fd3`
  - 1.5.0.torrent : `16798` : `-rw-r--r--` - `98080943bb6378d494884432180000f4202d404c9744e1aea09b574c58d074f4`
- - README.md : `5904` : `-rw-r--r--` - `358661f2c0365454027d9c372341e8b7bae6d0ffc7e7a2461e8028f8b91e9988`
+ - README.md : `5904` : `-rw-r--r--` - `f02c3637071e718d614482d7cb9b0dd9be701c364b9af5a17fafbe3d8ce2b2cc`
  - i2plogo.png : `46661` : `-rw-r--r--` - `2622fef997fd1dcc1c0ca63bbed0c55d50a9001ad976b8aa9bb08f023b2ec528`
- - index.html : `16056` : `-rw-r--r--` - `8fba5e9364bbba97113363082a05cab419053f5bdf5f51c0f71a2bee78419528`
+ - index.html : `16052` : `-rw-r--r--` - `c6e433719393bb1edf601b9a71d1f8740ab01bc5535888d95349fd63c7e08f39`
  - showhider.css : `391` : `-rw-r--r--` - `3fa35d42a1ec9060d2ed38ef15c13d4f79a7002b09033ef60d937734c9ab4490`
  - style.css : `2562` : `-rw-r--r--` - `afe6d4cb352e0b7b303228d06902d7eb9a42e9c6f73f13c0651a2cb65bf037e0`
