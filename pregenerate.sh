@@ -7,5 +7,5 @@ git add .
 #git commit -am 'update' #Committing the changes
 #git branch -D main #Deleting main branch
 #git branch -m main #renaming branch as main
-git push -f origin main #pushes to main branch
+#git push -f origin main #pushes to main branch
 #git gc --aggressive --prune=all # remove the old files
