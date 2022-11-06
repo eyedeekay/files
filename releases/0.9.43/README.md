@@ -10,7 +10,7 @@
  - [I2PMacLauncher-0.9.43-beta-0.1.8.zip](I2PMacLauncher-0.9.43-beta-0.1.8.zip) : `36209276` : `-rw-r--r--` - `85d1470bf25a131da965b8e3ecdb1bff35ba8f0fcda1028bfc8d1970b58b3cce`
  - [I2PMacLauncher-0.9.43-beta-0.1.8.zip.asc](I2PMacLauncher-0.9.43-beta-0.1.8.zip.asc) : `228` : `-rw-r--r--` - `f1664e9ab314a0678784ba00de46b34753e30292d447b89866d67840fbeab069`
  - [I2PMacLauncher-0.9.43-beta-0.1.8.zip.sig](I2PMacLauncher-0.9.43-beta-0.1.8.zip.sig) : `228` : `-rw-r--r--` - `f1664e9ab314a0678784ba00de46b34753e30292d447b89866d67840fbeab069`
- - [README.md](README.md) : `2955` : `-rw-r--r--` - `f0f92ad91e21dd99461d5feb142193753719d5ca39dd87d01ab4ca9c634b0a33`
+ - [README.md](README.md) : `3620` : `-rw-r--r--` - `ca2df5acb3f3f78c6ced1c50a89133ca8d525fc9010d343b4ce9ed3dc05c4c83`
  - [i2pinstall_0.9.43.jar](i2pinstall_0.9.43.jar) : `20234234` : `-rw-r--r--` - `e5eb3db08dcc594e2fb01ada63303ff48096a454db1c7659c928ddb07736c84a`
  - [i2pinstall_0.9.43.jar.sig](i2pinstall_0.9.43.jar.sig) : `566` : `-rw-r--r--` - `76a5336e07aab78d23736f59c540e7f4811c7f197db553cdc663df69cc4d6648`
  - [i2pinstall_0.9.43_windows.exe](i2pinstall_0.9.43_windows.exe) : `14498176` : `-rw-r--r--` - `9b20c38a392d5153759d2044ecdac7a90e79675738ead97bbcc731d972c47792`
@@ -23,7 +23,7 @@
  - [i2pupdate.su3](i2pupdate.su3) : `7922707` : `-rw-r--r--` - `ba3ce48fadaa74b7345b49f7eca31337784d07ef9db060ab6cc93b9420ded7dd`
  - [i2pupdate_0.9.43.zip](i2pupdate_0.9.43.zip) : `14909870` : `-rw-r--r--` - `d2749cca9a4ffe299a41660631d980fbe88d8f988a46808de0582a178d1ac9bf`
  - [i2pupdate_0.9.43.zip.sig](i2pupdate_0.9.43.zip.sig) : `566` : `-rw-r--r--` - `cf8c82a75d9f92fc6b6049074705cb20487c750ee1054cb88cdfe820a744943d`
- - [index.html](index.html) : `8438` : `-rw-r--r--` - `8c25d801584e8598749b6f22227eee7e0aba987dbdce74e2b077a554455d6b82`
+ - [index.html](index.html) : `10039` : `-rw-r--r--` - `0f0786bd229d48dca69d3e33bcffa3a14860d59c4f8c105a8273a0080e85508a`
  - [shasums.txt](shasums.txt) : `1549` : `-rw-r--r--` - `c7b1e317cb7ffd6a04d51f69417fbcde8521fde5c3712d8784c26a79d0567551`
  - [showhider.css](showhider.css) : `391` : `-rw-r--r--` - `3fa35d42a1ec9060d2ed38ef15c13d4f79a7002b09033ef60d937734c9ab4490`
  - [style.css](style.css) : `2562` : `-rw-r--r--` - `afe6d4cb352e0b7b303228d06902d7eb9a42e9c6f73f13c0651a2cb65bf037e0`
