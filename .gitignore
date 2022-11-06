@@ -1,0 +1,10 @@
+download.i2p2.de/
+files.i2p-projekt.de/
+stats.i2p/
+/*.*.*/
+muwire.com/
+/*.dmg
+/*.jar
+/*.su3
+./releases/1.9.5/I2P-Profile-Installer-1.9.5-signed.exe
+./releases/1.9.5/I2P-Profile-Installer-1.9.5.exe
