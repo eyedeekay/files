@@ -4,7 +4,7 @@
 **Directory Listing:**
 
  - .nojekyll : `0` : `-rw-r--r--` - `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`
- - README.md : `2600` : `-rw-r--r--` - `4a846c3d65ebfa5e9b4611b3866bb917b5665764fff27b58fc96fe6bb5a90067`
+ - README.md : `2600` : `-rw-r--r--` - `364f9c882d310c5b609f0ba50ddaf4b97d1a798fab36d9b9aa34043ee1410b9f`
  - i2pinstall_0.9.15.jar : `17828788` : `-rw-r--r--` - `623e800e42aec3583059176d4a614920de0004618dd17b4820c01afb944d9506`
  - i2pinstall_0.9.15.jar.sig : `543` : `-rw-r--r--` - `9fd6eb6dfdf219e8e0506a47567ed88120810095e806eec43d4e1774ef61a1de`
  - i2pinstall_0.9.15_windows.exe : `14604642` : `-rw-r--r--` - `05c352494a36bc10d284683135b8713fa06f227354c4c251052298e38d317ee6`
@@ -20,7 +20,7 @@
  - i2pupdate.sud : `10188949` : `-rw-r--r--` - `d4fe9313e58958ba88f5c46063185f9301b5dc4c8d5b22eef37152ef167d3430`
  - i2pupdate_0.9.15.zip : `10188893` : `-rw-r--r--` - `eae3100a292404a67d9b7cd4d3cf470c36791ba25a0953b35d48f7fd821a580d`
  - i2pupdate_0.9.15.zip.sig : `543` : `-rw-r--r--` - `88c122d2fb3b0d27b00b67e840b6cbaa587a9318bc81c2c5fa5bd3cc85922f33`
- - index.html : `7761` : `-rw-r--r--` - `024f1c27fa7cbdd191a2ade31f79ff25c645af65f4428326690eded584e0dec3`
+ - index.html : `7763` : `-rw-r--r--` - `e501560df24876f88b07d938617ca5d7d317d09856d28ba8bc4e5500460809ac`
  - jetty-dir.css : `319` : `-rw-r--r--` - `9fedebd5428a855320fe33788776213f2524dc006dc0fa42e3d8751c1591ab62`
  - news.xml : `1870` : `-rw-r--r--` - `760bb5802634bd7c1996fff5380a3389b1596d4249af3386e026140bf624b524`
  - showhider.css : `391` : `-rw-r--r--` - `3fa35d42a1ec9060d2ed38ef15c13d4f79a7002b09033ef60d937734c9ab4490`
