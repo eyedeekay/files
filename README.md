@@ -7,7 +7,7 @@ files
  - [.gitignore](.gitignore) : `197` : `-rw-r--r--` - `8310cf782f69deb6bee6e3115e4ab8dc8fc54c7e6ea592477ca8bc1acb6351b0`
  - [.nojekyll](.nojekyll) : `0` : `-rw-r--r--` - `e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855`
  - [LICENSE](LICENSE) : `1211` : `-rw-r--r--` - `6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e`
- - [README.md](README.md) : `2267` : `-rw-r--r--` - `51f42ded7240cd44ab612879b76321af6cae26ddff7b929033187cd7cb94fca6`
+ - [README.md](README.md) : `2837` : `-rw-r--r--` - `c81fefa35b9f1c88c871dba5e04eecd9a2129dbf7767ce92d9ecc5eb111bfb0e`
  - [USAGE.html](USAGE.html) : `8955` : `-rw-r--r--` - `1f526fa14688e17af34878b5dcb07a02ada1db03dc1623428dd339444d851f91`
  - [USAGE.md](USAGE.md) : `2268` : `-rw-r--r--` - `43adf5f6bc266e1ff39d6684de6c79de710ff21b2b7155099d26e169b9069f6d`
  - [clean.sh](clean.sh) : `71` : `-rwxr-xr-x` - `8223a2d3c680ba8febe1a5b262a8a39df3a9b10fc729d643d477001f44652d39`
@@ -22,9 +22,10 @@ files
  - [index.html](index.html) : `4238` : `-rw-r--r--` - `6e60e2af40f8c4e6e056a2bec4eb6abfba26b01e1cb4b78fafda7ee59154f6b4`
  - [index.md](index.md) : `352` : `-rw-r--r--` - `a37d356ab5312e991d2c7c7a56e490af7d06ddc20be3d6afe84c6307045feaad`
  - [mirror.sh](mirror.sh) : `437` : `-rwxr-xr-x` - `cfce9786a9a8e78bd9fa1d1ef41154a3bde0db5f44b20da67494745b22313c9c`
- - [pregenerate.sh](pregenerate.sh) : `388` : `-rwxr-xr-x` - `01d5cacb2f47d1bfe776bd50007eddcfe19b83bcf6e10327088abee57bfbde19`
+ - [pregenerate.sh](pregenerate.sh) : `393` : `-rwxr-xr-x` - `663277567a15771eb821e123b373260281c60cdd109b3a9eab83a44e3ffa8f5c`
  - [releases](releases) : `4096` : `drwxr-xr-x`
  - [showhider.css](showhider.css) : `391` : `-rw-r--r--` - `3fa35d42a1ec9060d2ed38ef15c13d4f79a7002b09033ef60d937734c9ab4490`
  - [sked.json](sked.json) : `260` : `-rw-r--r--` - `3a8f75d5b38df09460b51c6983c962fa1ba3d2365f5fa50b1430b5a22a02f100`
+ - [stats.i2p](stats.i2p) : `4096` : `drwxr-xr-x`
  - [style.css](style.css) : `2562` : `-rw-r--r--` - `afe6d4cb352e0b7b303228d06902d7eb9a42e9c6f73f13c0651a2cb65bf037e0`
  - [update-gitignore.sh](update-gitignore.sh) : `74` : `-rwxr-xr-x` - `30f3f25ced07c05074ca21873519e3b40a4d4c169975423529d077df7627b22d`
