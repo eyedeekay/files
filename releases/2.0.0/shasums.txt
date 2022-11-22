@@ -1,0 +1,21 @@
+     [echo] File sizes:
+     [exec] -rw-rw-r-- 1 zzz zzz 29460128 Nov 21 18:07 i2pinstall_2.0.0.jar
+     [exec] -rw-rw-r-- 1 zzz zzz      566 Nov 21 18:08 i2pinstall_2.0.0.jar.sig
+     [exec] -rw-rw-r-- 1 zzz zzz 32700296 Nov 21 18:08 i2psource_2.0.0.tar.bz2
+     [exec] -rw-rw-r-- 1 zzz zzz      566 Nov 21 18:08 i2psource_2.0.0.tar.bz2.sig
+     [exec] -rw-rw-r-- 1 zzz zzz 17491499 Nov 21 18:07 i2pupdate_2.0.0.zip
+     [exec] -rw-rw-r-- 1 zzz zzz      566 Nov 21 18:08 i2pupdate_2.0.0.zip.sig
+     [exec] -r--r--r-- 1 zzz zzz 17492079 Nov 21 18:08 i2pupdate.su3
+            -rwxr-xr-x 1 zzz zzz 23273812 Nov 21 18:07 i2pinstall_2.0.0_windows.exe
+            -rw-rw-r-- 1 zzz zzz      566 Nov 21 18:25 i2pinstall_2.0.0_windows.exe.sig
+
+     [echo] SHA256 sums:
+     [echo] df3cf4d7fc6c3ed06c7b9de5c8c7b9c692295ecddb0d780e31fc23107e045e5e  i2pinstall_2.0.0_windows.exe
+     [echo] b9fe281f28971de674f35cba8c483037bf8ac2d96578cb34f5ee627239d03890  i2pinstall_2.0.0.jar
+     [echo] 1d50831e72a8f139cc43d5584c19ca48580d72f1894837689bf644c299df9099  i2psource_2.0.0.tar.bz2
+     [echo] 053864a774470df66517826e10026787dc7a90ba871e6aded018d962ca3c068a  i2pupdate_2.0.0.zip
+     [echo] c221a9aadac400697cc79a2202130d766359518aab565ad6e99d64f29b92ff83  i2pupdate.su3
+
+     [java] Created:     i2pupdate-2.0.0.su3.torrent
+     [java] InfoHash:    a50f8479a39896f00431d7b500447fe303d2b6b5
+     [java] Magnet:      magnet:?xt=urn:btih:a50f8479a39896f00431d7b500447fe303d2b6b5&dn=i2pupdate-2.0.0.su3&tr=http://tracker2.postman.i2p/announce.php
